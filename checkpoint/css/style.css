@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  @import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');  
+
+body {
+   
+    margin: 0;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background: url('https://www.livehere.com.br/blog/wp-content/uploads/2019/05/morar-em-campinas-990x556.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header {
+  
+    background-color: darkblue;
+    padding: 20px 0 20px 0;
+    height: 100px;
+    font-family: 'Patrick Hand', cursive, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    
+    
+  }
+
+.texto {
+
+   padding: 10px;
+   margin: 15px;
+   text-align: justify;
+   color:white;
+   font-size: 20px;
+   
+
+}  
+
+#multimidia {
+
+    padding: 25px;
+    margin: 0 0 0 600px;
+    position: relative;
+    
+   
+    
+}
+
+.texto2 {
+
+  text-align: left;
+  color: white;
+  top: 450px;
+  position: absolute;
+  left: 200px;
+  font-size: 20px
+
+}
+
+footer {
+
+   background-color: darkblue;
+   padding: 20px 0 20px 0;
+   height: 100px;
+   display: block;
+   
+
+}
+
+.rodape {
+
+   text-align: center;
+   
+   
+ 
+}
+
+
+a {
+
+   color: white;
+   font-size: 18px;
+   text-decoration: none;
+   margin: 50px;
+   position: relative;
+   
+}
